@@ -1,4 +1,4 @@
-Olá! Meu nome é Lucas Furlani e sou um desenvolvedorapaixonado por tecnologia e aprendizado contínuo. Embora eu ainda não tenha experiência profissional na área, estou entusiasmado e comprometido em iniciar minha carreira e contribuir para projetos de desenvolvimento web.
+Olá! Meu nome é Lucas Furlani e sou um desenvolvedor apaixonado por tecnologia e aprendizado contínuo. Embora eu ainda não tenha experiência profissional na área, estou entusiasmado e comprometido em iniciar minha carreira e contribuir para projetos de desenvolvimento web.
 
 Habilidades Técnicas
 Frontend:
