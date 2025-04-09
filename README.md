@@ -8,7 +8,7 @@ Tenho experiência sólida no desenvolvimento de aplicações tanto **front-end*
 
 Além de minha formação técnica, estou sempre em busca de novos desafios e oportunidades para expandir meu conhecimento e contribuir com soluções inovadoras.
 
-Se você tiver algum feedback ou quiser trocar ideias, fique à vontade para me contatar por e-mail: [furlani.lucas7@gmail.com](mailto:furlani.lucas7@gmail.com).
+Se você tiver algum feedback ou quiser trocar ideias, fique à vontade para me contatar por e-mail: [furlani.lucas7@gmail.com](mailto:furlani.lucas7@gmail.com)
 
 Conecte-se comigo nas redes sociais:  
 
