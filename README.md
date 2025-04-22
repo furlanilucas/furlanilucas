@@ -13,6 +13,6 @@ Se você tiver algum feedback ou quiser trocar ideias, fique à vontade para me 
 Conecte-se comigo nas redes sociais:  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasfurlani)
-[Instagram](https://www.instagram.com/lfurlani96/)  
-[GitHub](https://github.com/furlanilucas/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/lfurlani96)  
+
 
